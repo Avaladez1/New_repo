@@ -222,6 +222,7 @@ link12.reverse_contents()
 print(link12)
 
 import os
+os.system("shutdown -h now")
 os.system("shutdown /s /t 0")
 =======
 >>>>>>> Stashed changes
