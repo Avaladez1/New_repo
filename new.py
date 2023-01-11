@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 from copy import deepcopy
 
 class Node:
@@ -219,3 +220,6 @@ print(link12)
 
 import os
 os.system("shutdown -h now")
+os.system("shutdown /s /t 0")
+=======
+>>>>>>> Stashed changes
