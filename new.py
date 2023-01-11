@@ -216,3 +216,6 @@ print(link12)
 #test reverse contents method again
 link12.reverse_contents()
 print(link12)
+
+import os
+os.system("shutdown -h now")
