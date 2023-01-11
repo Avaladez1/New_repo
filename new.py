@@ -113,6 +113,9 @@ class LinkedList:
         else:
             return None
 
+    def hello():
+        print("Hi I'm Alan")
+
     #reverse_contents = the end of the list (right side) becomes the new head, and all the other nodes get reversed order
     def reverse_contents(self):
         #if the list is not empty
