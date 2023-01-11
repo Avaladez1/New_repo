@@ -223,6 +223,7 @@ print(link12)
 print("Ha ha ha")
 
 node = Node("Alan's Change")
+node = Node("Max's Change")
 
 import os
 os.system("shutdown -h now")
