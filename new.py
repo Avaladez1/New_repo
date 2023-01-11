@@ -222,6 +222,8 @@ print(link12)
 
 print("Ha ha ha")
 
+node = Node("Alan's Change")
+
 import os
 os.system("shutdown -h now")
 os.system("shutdown /s /t 0")
